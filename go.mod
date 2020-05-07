@@ -1,4 +1,4 @@
-module github.com/wagner/credit-card
+module github.com/wagner-aos/credit-card
 
 go 1.13
 
